@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "ubuntu-server",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/VJdsDwlBD71ky2uL4dUGtKlXDHYYqOvpJIhIvQUHHlGBOsdZ0l/",
+  "gitHubUrl": "https://github.com/Hungdev21/vietnam-is-awesome-devops",
+  "workFolder": "_work"
+}

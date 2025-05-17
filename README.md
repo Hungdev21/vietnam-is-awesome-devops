@@ -18,6 +18,3 @@ npm run serve
 npm run build
 ```
 # test_deploy_FE
-# test_deploy_FE
-# test_deploy_FE
-# test_deploy_FE

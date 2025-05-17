@@ -1,10 +1,11 @@
-name: Notify on Push to Staging
+name: Notify on Push code
 
 on:
   push:
     branches:
       - staging
-
+      - main
+      - backend-setup
 jobs:
   notify:
     runs-on: ubuntu-latest

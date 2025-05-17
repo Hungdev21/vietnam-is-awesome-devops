@@ -20,15 +20,14 @@ jobs:
           COMMIT_HASH="${{ github.event.head_commit.id }}"
           COMMIT_URL="https://github.com/$REPO/commit/$COMMIT_HASH"
 
-          # Escape special characters for Markdown
-          ESCAPED_COMMIT_MSG=$(echo "$COMMIT_MSG" | sed -E 's/([_*[\]()~`>#+\-=|{}.!])/\\\1/g')
-          ESCAPED_ACTOR=$(echo "$ACTOR" | sed -E 's/([_*[\]()~`>#+\-=|{}.!])/\\\1/g')
-          ESCAPED_REPO=$(echo "$REPO" | sed -E 's/([_*[\]()~`>#+\-=|{}.!])/\\\1/g')
-
-          MESSAGE="🚀 *New Push to Staging*\n👤 *By*: $ESCAPED_ACTOR\n📦 *Repo*: $ESCAPED_REPO\n📝 *Message*: $ESCAPED_COMMIT_MSG\n🔗 *Commit*: [$COMMIT_HASH]($COMMIT_URL)"
+          MESSAGE="New Push to Staging
+          By: $ACTOR
+          Repo: $REPO
+          Message: $COMMIT_MSG
+          Commit: $COMMIT_HASH
+          URL: $COMMIT_URL"
 
           echo "Sending message to Telegram..."
           curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
-            -d text="$MESSAGE" \
-            -d parse_mode="Markdown"
+            -d text="$MESSAGE"

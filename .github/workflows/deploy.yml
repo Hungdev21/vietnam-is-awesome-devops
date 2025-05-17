@@ -3,7 +3,7 @@ name: Deploy FE to Cloudflare
 on:
   push:
     branches:
-      - staging/FE
+      - staging_FE
 
 jobs:
   build-and-deploy:

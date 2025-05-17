@@ -3,7 +3,7 @@ name: Notify on Push to Main
 on:
   push:
     branches:
-      - staging
+      - staging_FE
 
 jobs:
   notify:

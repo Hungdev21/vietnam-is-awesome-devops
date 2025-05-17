@@ -1,4 +1,4 @@
-name: Notify on Push to Main
+name: Notify on Push to Staging
 
 on:
   push:
@@ -20,12 +20,12 @@ jobs:
           COMMIT_HASH="${{ github.event.head_commit.id }}"
           COMMIT_URL="https://github.com/$REPO/commit/$COMMIT_HASH"
 
-          # Tạo nội dung tin nhắn
-          MESSAGE="🚀 *New Push to Main*
-👤 *By*: $ACTOR
-📦 *Repo*: $REPO
-📝 *Message*: $COMMIT_MSG
-🔗 *Commit*: [$COMMIT_HASH]($COMMIT_URL)"
+          # Escape special characters for Markdown
+          ESCAPED_COMMIT_MSG=$(echo "$COMMIT_MSG" | sed -E 's/([_*[\]()~`>#+\-=|{}.!])/\\\1/g')
+          ESCAPED_ACTOR=$(echo "$ACTOR" | sed -E 's/([_*[\]()~`>#+\-=|{}.!])/\\\1/g')
+          ESCAPED_REPO=$(echo "$REPO" | sed -E 's/([_*[\]()~`>#+\-=|{}.!])/\\\1/g')
+
+          MESSAGE="🚀 *New Push to Staging*\n👤 *By*: $ESCAPED_ACTOR\n📦 *Repo*: $ESCAPED_REPO\n📝 *Message*: $ESCAPED_COMMIT_MSG\n🔗 *Commit*: [$COMMIT_HASH]($COMMIT_URL)"
 
           echo "Sending message to Telegram..."
           curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \

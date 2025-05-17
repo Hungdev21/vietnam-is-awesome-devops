@@ -435,3 +435,272 @@
 [2025-05-17 06:27:17Z INFO CredentialManager] Creating type OAuth
 [2025-05-17 06:27:17Z INFO CredentialManager] Creating credential type: OAuth
 [2025-05-17 06:27:17Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:28:08Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:28:08Z INFO ConfigurationStore] stored True
+[2025-05-17 06:28:08Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:28:08Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:28:08Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:28:08Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:28:59Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:28:59Z INFO ConfigurationStore] stored True
+[2025-05-17 06:28:59Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:28:59Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:28:59Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:28:59Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:29:50Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:29:50Z INFO ConfigurationStore] stored True
+[2025-05-17 06:29:50Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:29:50Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:29:50Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:29:50Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:30:41Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:30:41Z INFO ConfigurationStore] stored True
+[2025-05-17 06:30:41Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:30:41Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:30:41Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:30:41Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:31:33Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:31:33Z INFO ConfigurationStore] stored True
+[2025-05-17 06:31:33Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:31:33Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:31:33Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:31:33Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:32:24Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:32:24Z INFO ConfigurationStore] stored True
+[2025-05-17 06:32:24Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:32:24Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:32:24Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:32:24Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:33:15Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:33:15Z INFO ConfigurationStore] stored True
+[2025-05-17 06:33:15Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:33:15Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:33:15Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:33:15Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:34:06Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:34:06Z INFO ConfigurationStore] stored True
+[2025-05-17 06:34:06Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:34:06Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:34:06Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:34:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:34:57Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:34:57Z INFO ConfigurationStore] stored True
+[2025-05-17 06:34:57Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:34:57Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:34:57Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:34:57Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:34:58Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:34:59Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-17 06:35:50Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:35:50Z INFO ConfigurationStore] stored True
+[2025-05-17 06:35:50Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:35:50Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:35:50Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:35:50Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:36:41Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:36:41Z INFO ConfigurationStore] stored True
+[2025-05-17 06:36:41Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:36:41Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:36:41Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:36:41Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:37:32Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:37:32Z INFO ConfigurationStore] stored True
+[2025-05-17 06:37:32Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:37:32Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:37:32Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:37:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:38:24Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:38:24Z INFO ConfigurationStore] stored True
+[2025-05-17 06:38:24Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:38:24Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:38:24Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:38:24Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:39:15Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:39:15Z INFO ConfigurationStore] stored True
+[2025-05-17 06:39:15Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:39:15Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:39:15Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:39:15Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:40:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:40:07Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-17 06:40:08Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:40:08Z INFO ConfigurationStore] stored True
+[2025-05-17 06:40:08Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:40:08Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:40:08Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:40:08Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:40:59Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:40:59Z INFO ConfigurationStore] stored True
+[2025-05-17 06:40:59Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:40:59Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:40:59Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:40:59Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:41:50Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:41:50Z INFO ConfigurationStore] stored True
+[2025-05-17 06:41:50Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:41:50Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:41:50Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:41:50Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:42:41Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:42:41Z INFO ConfigurationStore] stored True
+[2025-05-17 06:42:41Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:42:41Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:42:41Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:42:41Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:43:32Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:43:32Z INFO ConfigurationStore] stored True
+[2025-05-17 06:43:32Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:43:32Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:43:32Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:43:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:44:23Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:44:23Z INFO ConfigurationStore] stored True
+[2025-05-17 06:44:23Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:44:23Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:44:23Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:44:23Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:45:15Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:45:15Z INFO ConfigurationStore] stored True
+[2025-05-17 06:45:15Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:45:15Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:45:15Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:45:15Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:46:05Z INFO MessageListener] No message retrieved from session 'f77491eb-72ab-43c4-9794-eeef99ccba65' within last 30 minutes.
+[2025-05-17 06:46:06Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:46:06Z INFO ConfigurationStore] stored True
+[2025-05-17 06:46:06Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:46:06Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:46:06Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:46:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:46:57Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:46:57Z INFO ConfigurationStore] stored True
+[2025-05-17 06:46:57Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:46:57Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:46:57Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:46:57Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:47:48Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:47:48Z INFO ConfigurationStore] stored True
+[2025-05-17 06:47:48Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:47:48Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:47:48Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:47:48Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:48:39Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:48:39Z INFO ConfigurationStore] stored True
+[2025-05-17 06:48:39Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:48:39Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:48:39Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:48:39Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:49:30Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:49:30Z INFO ConfigurationStore] stored True
+[2025-05-17 06:49:30Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:49:30Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:49:30Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:49:30Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:50:21Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:50:21Z INFO ConfigurationStore] stored True
+[2025-05-17 06:50:21Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:50:21Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:50:21Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:50:21Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:51:13Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:51:13Z INFO ConfigurationStore] stored True
+[2025-05-17 06:51:13Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:51:13Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:51:13Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:51:13Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:52:04Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:52:04Z INFO ConfigurationStore] stored True
+[2025-05-17 06:52:04Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:52:04Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:52:04Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:52:04Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:52:55Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:52:55Z INFO ConfigurationStore] stored True
+[2025-05-17 06:52:55Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:52:55Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:52:55Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:52:55Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:53:46Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:53:46Z INFO ConfigurationStore] stored True
+[2025-05-17 06:53:46Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:53:46Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:53:46Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:53:46Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:54:37Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:54:37Z INFO ConfigurationStore] stored True
+[2025-05-17 06:54:37Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:54:37Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:54:37Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:54:37Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:55:28Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:55:28Z INFO ConfigurationStore] stored True
+[2025-05-17 06:55:28Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:55:28Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:55:28Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:55:28Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:56:20Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:56:20Z INFO ConfigurationStore] stored True
+[2025-05-17 06:56:20Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:56:20Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:56:20Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:56:20Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:57:11Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:57:11Z INFO ConfigurationStore] stored True
+[2025-05-17 06:57:11Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:57:11Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:57:11Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:57:11Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:58:02Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:58:02Z INFO ConfigurationStore] stored True
+[2025-05-17 06:58:02Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:58:02Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:58:02Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:58:02Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:58:53Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:58:53Z INFO ConfigurationStore] stored True
+[2025-05-17 06:58:53Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:58:53Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:58:53Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:58:53Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 06:59:44Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 06:59:44Z INFO ConfigurationStore] stored True
+[2025-05-17 06:59:44Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 06:59:44Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 06:59:44Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 06:59:44Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 07:00:35Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 07:00:35Z INFO ConfigurationStore] stored True
+[2025-05-17 07:00:35Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 07:00:35Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 07:00:35Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 07:00:35Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 07:01:26Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 07:01:26Z INFO ConfigurationStore] stored True
+[2025-05-17 07:01:26Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 07:01:26Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 07:01:26Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 07:01:26Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 07:02:18Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 07:02:18Z INFO ConfigurationStore] stored True
+[2025-05-17 07:02:18Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 07:02:18Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 07:02:18Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 07:02:18Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 07:03:09Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 07:03:09Z INFO ConfigurationStore] stored True
+[2025-05-17 07:03:09Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 07:03:09Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 07:03:09Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 07:03:09Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 07:04:00Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 07:04:00Z INFO ConfigurationStore] stored True
+[2025-05-17 07:04:00Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 07:04:00Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 07:04:00Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 07:04:00Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
+[2025-05-17 07:04:51Z INFO ConfigurationStore] HasCredentials()
+[2025-05-17 07:04:51Z INFO ConfigurationStore] stored True
+[2025-05-17 07:04:51Z INFO CredentialManager] GetCredentialProvider
+[2025-05-17 07:04:51Z INFO CredentialManager] Creating type OAuth
+[2025-05-17 07:04:51Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-17 07:04:51Z INFO RSAFileKeyManager] Loading RSA key parameters from file /projects/todolist/actions-runner/.credentials_rsaparams
